@@ -10,6 +10,10 @@ A course repo for [PHBS Machine Learning for Finance](https://github.com/PHBS/ML
   <a href="https://github.com/oyrx/PHBS_MLF_2019/blob/master/HW0/Jupyter.PNG"><img src="https://github.com/oyrx/PHBS_MLF_2019/blob/master/HW0/Jupyter.PNG?raw=true" width="156"/></a>
   <a href="https://github.com/oyrx/PHBS_MLF_2019/blob/master/HW0/PyCharm.PNG"><img src="https://github.com/oyrx/PHBS_MLF_2019/blob/master/HW0/PyCharm.PNG?raw=true" width="157"/></a>
 
+- **HW1**: Playing with Pandas
+  - [Processing.ipynb](https://github.com/oyrx/PHBS_MLF_2019/blob/master/HW1/Processing.ipynb) Jupyter notebook
+  - [Processing.pdf](https://github.com/oyrx/PHBS_MLF_2019/blob/master/HW1/Processing.pdf) PDF version
+
 ## Project
 
 ## LICENSE
