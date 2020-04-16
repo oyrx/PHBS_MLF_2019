@@ -1,7 +1,5 @@
 # PHBS_MLF_2019
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 A course repo for [PHBS Machine Learning for Finance](https://github.com/PHBS/MLF) (Spring 2020)
 
 ## Homework
